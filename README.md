@@ -5,12 +5,12 @@
 ### Features :
 - Authentication
 - Teachers can :
-  1 - Show groups , classes and students with their details
-  2 - search for student by name
-  3 - chat with parent of student
-  4 - show messages between teacher and parent by pagination
-  5 - add new homework
-  6 - show pervious homeworks.
+   - Show groups , classes and students with their details
+   - search for student by name
+   - chat with parent of student
+   - show messages between teacher and parent by pagination
+   - add new homework
+   - show pervious homeworks.
 ### Technologis used :
 - Flutter 
 - Socket.io
