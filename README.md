@@ -17,6 +17,7 @@
 - Http 
 - JWT
 - Provider
+- shared preferences
 
 ---
 ---
