@@ -21,6 +21,12 @@
 
 ---
 ---
+App Video Link :
+
+<a href="https://www.youtube.com/watch?v=G7Tlsm8xx6A&t=11s">
+    <img src="https://github.com/BlackedHorse/teacher_app_with_flutter/blob/main/screen%20ui/photo/main.JPG" width="500" height="500">
+</a>
+
 ![loginScreen](https://github.com/BlackedHorse/teacher_app_with_flutter/blob/main/screen%20ui/photo/login.JPG)
 ![mainScreen](https://github.com/BlackedHorse/teacher_app_with_flutter/blob/main/screen%20ui/photo/main.JPG)
 ![groupScreen](https://github.com/BlackedHorse/teacher_app_with_flutter/blob/main/screen%20ui/photo/group.JPG)
